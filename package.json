@@ -13,7 +13,7 @@
     "type-check": "./node_modules/.bin/tsc"
   },
   "dependencies": {
-    "@contentlayer/client": "^0.0.33",
+    "@contentlayer/client": "^0.3.4",
     "@giscus/react": "^2.2.8",
     "@linear/sdk": "^1.21.0",
     "@types/gtag.js": "^0.0.7",
